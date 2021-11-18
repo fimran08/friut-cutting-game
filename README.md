@@ -1,0 +1,1 @@
+# friut-cutting-game
